@@ -12,8 +12,6 @@ import javax.swing.table.AbstractTableModel;
  * Updated model Model for the courselist table. Contains the database-specific
  * code to read the data from the database into the table model.
  * 
- * @author Kevin
- * 
  * 
  */
 
