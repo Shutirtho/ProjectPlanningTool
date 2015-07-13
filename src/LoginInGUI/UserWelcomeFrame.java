@@ -10,10 +10,7 @@ import TaskSearch.UserTaskSearchFrame;
 import TeamSearch.UserTeamSearchFrame;
 import UserGUI.UserList;
 
-/**
- *
- * @author lenovo
- */
+
 public class UserWelcomeFrame extends javax.swing.JFrame {
 	public UserList currentUser;
 
