@@ -5,10 +5,7 @@ import BudgetSearch.UserBudgetSearchFrame;
 import LoginInGUI.LoginIFrame;
 import TeamSearch.UserTeamSearchFrame;
 
-/**
- *
- * @author lenovo
- */
+
 public class UserTaskSearchFrame extends javax.swing.JFrame {
 	public JTable jTable1;
 	public TaskSearchTableController taskSearchTableController;
