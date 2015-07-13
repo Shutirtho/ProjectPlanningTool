@@ -15,10 +15,7 @@ import TeamGUI.TeamEdtFrame;
 import TimeLineGUI.TimelineEdtFrame;
 import UserGUI.UserListGUI;
 
-/**
- *
- * @author lenovo
- */
+
 public class RecordEdtFrame extends javax.swing.JFrame {
 	private JTable jTable1;
 	private RecordTableController recordTableController;
