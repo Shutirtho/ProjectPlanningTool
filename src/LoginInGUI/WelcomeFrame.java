@@ -14,10 +14,7 @@ import UserGUI.UserList;
 import UserGUI.UserListGUI;
 
 
-/**
- *
- * @author lenovo
- */
+
 public class WelcomeFrame extends javax.swing.JFrame {
 	public UserList currentUser;
 
