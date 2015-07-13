@@ -5,10 +5,7 @@
  */
 package RecordSearch;
 
-/**
- *
- * @author lenovo
- */
+
 public class UserRecordSearchFrame extends javax.swing.JFrame {
 
     /**
